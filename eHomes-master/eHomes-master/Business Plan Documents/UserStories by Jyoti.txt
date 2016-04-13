@@ -1,0 +1,25 @@
+User should be able to locate the address on Map.
+
+User should be able to view the listing on List mode or Map mode.
+
+User should be able to set todo list for the trip.
+
+Guest/Host should get notification atleast 1 day prior to the trip.
+
+User must be able to add/remove listing to the wishlist.
+
+Customer Support  via Chat feature.
+
+User should be able to register complaints & Feedback.
+
+User should be able to track the status of the Cancellation/Refund.
+
+User should be able to take help from Frequently Asked Questions.
+
+User should be able to see Tourist Hotspot.
+
+Host should be able to add/update/delete weekly/monthly discount.
+
+Host should be able to add/update/remove property photos.
+
+Airhome recommendation to Complete verified Hosts & Guest.

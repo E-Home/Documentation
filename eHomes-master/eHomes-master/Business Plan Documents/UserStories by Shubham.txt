@@ -1,0 +1,23 @@
+User Registration
+User Details Update
+User Details View
+User Delete
+User Login
+User must be able to recover Password.
+User verification
+User can search for property
+User should be able to sort property as per various criteria.
+User wish list
+ User can request for multiple property.
+ User can send message by contact host.
+ User can make payments directly.
+ User can change the Refund and Cancellation policy.
+ User can view the overview of all bookings.
+ User can refer other host & guest
+ User can send and respond to an enquiry.
+ User can cancel the booking.
+ User can invite other guest visiting along with guest.
+ User need to update payout methods.
+ Guest should receive the email/message for every enquiry/booking.
+ Guest should be able to reply by using message and email.
+ User should be able to receive Travel Credits by referring to other  Guest/Host.
